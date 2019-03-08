@@ -6,5 +6,6 @@
 
 module.exports = {
   siteName: 'Jeson Test Page',
+  siteNameImage: '/image/cn/r1/site_id.gif',
   plugins: []
 }

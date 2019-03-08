@@ -7,6 +7,9 @@
     "explore": "gridsome explore"
   },
   "dependencies": {
-    "gridsome": "^0.5.0"
+    "gridsome": "^0.5.0",
+    "jQuery": "^1.7.4",
+    "jquery": "^3.3.1",
+    "vue-jquery": "^1.0.6"
   }
 }
