@@ -22,11 +22,19 @@
 export default {
   metaInfo: {
     title: 'Hello, world!'
+  },
+  methods: {
+    onClick () {
+      this.message = 'Here you go :)';
+    }
   }
 }
 </script>
 
-<style>
+<style scoped>
+h1 {
+  font-size: 200%;
+}
 .home-links a {
   margin-right: 1rem;
 }
